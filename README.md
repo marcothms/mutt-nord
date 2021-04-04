@@ -6,6 +6,6 @@ This is an official port created by me based on the colors from the [Nord](https
 
 ![screenshot](screenshot.png)
 
-### Improvents
+### Improvements
 
 If you have ideas for improvements, please open a PR!
