@@ -1,6 +1,6 @@
 # mutt-nord
 
-This is an inofficial port created by me based on the colors from the [Nord](https://nordtheme.com) theme.
+This is an unofficial port created by [CramMK](https://github.com/CramMK) based on the colors from the [Nord](https://nordtheme.com) theme.
 
 ### Screenshot
 
