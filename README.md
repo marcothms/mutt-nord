@@ -1,5 +1,5 @@
 # mutt-nord
-This is an unofficial port created by [CramMK](https://github.com/CramMK) based on the colors from the [Nord](https://nordtheme.com) theme.
+This is an unofficial port created by [marcothms](https://github.com/marcothms) based on the colors from the [Nord](https://nordtheme.com) theme.
 
 ## Screenshot
 ![screenshot](screenshot.png)
